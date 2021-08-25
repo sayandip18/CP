@@ -1,1 +1,0 @@
-memset(dp,INT_MAX,sizeof(dp));
